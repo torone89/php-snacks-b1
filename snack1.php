@@ -1,5 +1,5 @@
 <?php
-// CREO UN ARRAY ASSOCIATIVO
+// CREO UN ARRAY MULTIDIMENSIONALE(JS ARRAY DI OGG.) CON VARI ARRAY ASSOCIATIVI
 $partite = [
     [
         'Team_Casa' => 'Venezuela',
